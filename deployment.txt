@@ -1,2 +1,2 @@
-Frontend URL: https://<your-frontend-deployment-url>
-Backend API URL: https://<your-backend-deployment-url>/api
+Frontend URL: https://dass-a1-frontend-peach.vercel.app
+Backend API URL: https://dass-a1-backend.onrender.com/api
