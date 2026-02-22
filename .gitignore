@@ -1,0 +1,41 @@
+projectDescription.md
+
+# Environment files
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build outputs
+dist/
+build/
+coverage/
+**/dist/
+**/build/
+**/coverage/
+
+# Runtime/log/temp files
+*.log
+*.tmp
+*.temp
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Backend runtime artifacts
+backend/uploads/
+uploads/
+payment-proof-*.txt
+tmp-backend-out.log
+tmp-backend-err.log
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
